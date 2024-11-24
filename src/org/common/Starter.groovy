@@ -1,6 +1,6 @@
 package org.common
 
-class Starter {
+class Starter implements Serializable {
     
     def env
     def steps
